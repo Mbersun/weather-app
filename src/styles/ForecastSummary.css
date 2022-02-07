@@ -1,0 +1,8 @@
+.forecast-summary__date {
+    font-size: 20px;
+}
+
+.forecast-summary__icon {
+    margin: 20px 0 20px 0;
+    font-size: 60px;
+}
